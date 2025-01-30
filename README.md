@@ -18,7 +18,4 @@ Hi, I'm Deepak! I am a Senior Software Engineer with a passion for developing ap
 
 ## Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=deepakdaneva&limit=5&theme=dark&combine_all_yearly_contributions=true">
-
----
-![](https://visitcount.itsvg.in/api?id=deepakdaneva&icon=5&color=12)
 </dev>

@@ -11,7 +11,6 @@ Hi, I'm Deepak! I am a Senior Software Engineer with a passion for developing ap
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=deepakdaneva&theme=dark&hide_border=true&include_all_commits=false&count_private=false"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdaneva&theme=dark&hide_border=true"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakdaneva&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
 ## Random Dev Quote
@@ -19,9 +18,6 @@ Hi, I'm Deepak! I am a Senior Software Engineer with a passion for developing ap
 
 ## Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=deepakdaneva&limit=5&theme=dark&combine_all_yearly_contributions=true">
-
-## Random Dev Meme
-<img src="https://randommeme-five.vercel.app" style="height: 400px;"/>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=deepakdaneva&icon=5&color=12)
